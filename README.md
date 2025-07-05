@@ -4,10 +4,10 @@
 
 Esta é uma ferramenta com interface gráfica (GUI) desenvolvida em Python e PyQt5 para automatizar a organização de arquivos. O script move arquivos de uma pasta de origem para uma estrutura de pastas de destino hierárquica, baseando-se em uma planilha de mapeamento (Excel ou CSV).
 
-## 📸 Screenshot
+<!-- ## 📸 Screenshot
 
 (Adicione aqui um screenshot da aplicação em funcionamento para que todos possam ver a interface)
-![Exemplo da Interface](https://via.placeholder.com/700x500.png?text=Interface+do+Organizador+de+Arquivos)
+![Exemplo da Interface](https://via.placeholder.com/700x500.png?text=Interface+do+Organizador+de+Arquivos) -->
 
 ## ✨ Funcionalidades Principais
 
